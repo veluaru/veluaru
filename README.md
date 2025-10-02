@@ -4,7 +4,7 @@
   <img src="https://media.tenor.com/146_nCmY0qoAAAAj/kirby.gif" width="200px">
 </p>
 
-I'm a Frontend Developer from Medellín, Colombia. My passion is building beautiful web experiences, and I specialize in the Vue.js ecosystem.
+I'm a Frontend Developer from Medellín, Colombia. My passion is building beautiful web experiences, and I specialize in the Vue.js ecosystem 💚.
 
 When I'm not coding, you can find me exploring new worlds in video games 🎮 or getting lost in a good TV series 🍿.
 
