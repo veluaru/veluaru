@@ -1,12 +1,19 @@
 ### Hey there, I'm Angie! ✨
 
-<p align="center">
-  <img src="https://media.tenor.com/146_nCmY0qoAAAAj/kirby.gif" width="200px">
-</p>
-
-I'm a Frontend Developer from Medellín, Colombia. My passion is building beautiful web experiences, and I specialize in the Vue.js ecosystem 💚.
-
-When I'm not coding, you can find me exploring new worlds in video games 🎮 or getting lost in a good TV series 🍿.
+<table>
+  <tr>
+    <td valign="top">
+      I'm a Frontend Developer from Medellín, Colombia. My passion is building beautiful web experiences, and I specialize in the Vue.js ecosystem 💚.
+      <br><br>
+      When I'm not coding, you can find me exploring new worlds in video games 🎮 or getting lost in a good TV series 🍿.
+    </td>
+    <td valign="top" width="220px">
+      <p align="center">
+        <img src="https://media.tenor.com/146_nCmY0qoAAAAj/kirby.gif" alt="Kirby GIF">
+      </p>
+    </td>
+  </tr>
+</table>
 
 ***
 
