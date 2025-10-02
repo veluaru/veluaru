@@ -1,19 +1,14 @@
 ### Hey there, I'm Angie! ✨
 
-<table>
-  <tr>
-    <td valign="top">
-      I'm a Frontend Developer from Medellín, Colombia. My passion is building beautiful web experiences, and I specialize in the Vue.js ecosystem 💚.
-      <br><br>
-      When I'm not coding, you can find me exploring new worlds in video games 🎮 or getting lost in a good TV series 🍿.
-    </td>
-    <td valign="top" width="220px">
-      <p align="center">
-        <img src="https://media.tenor.com/146_nCmY0qoAAAAj/kirby.gif" alt="Kirby GIF">
-      </p>
-    </td>
-  </tr>
-</table>
+***
+
+I'm a Frontend Developer from Medellín, Colombia. My passion is building beautiful web experiences, and I specialize in the Vue.js ecosystem.
+
+When I'm not coding, you can find me exploring new worlds in video games 🎮 or getting lost in a good TV series 🍿.
+
+<p align="center">
+  <img src="https://media.tenor.com/146_nCmY0qoAAAAj/kirby.gif" width="200px">
+</p>
 
 ***
 
@@ -53,15 +48,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-</p>
-
-***
-
-### 🔥 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veluaru&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Angie's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veluaru&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
 </p>
 
 ***
