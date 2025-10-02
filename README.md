@@ -1,6 +1,4 @@
-### Hey there, I'm Angie! ✨
-
-***
+## Hey there, I'm Angie! ✨
 
 I'm a Frontend Developer from Medellín, Colombia. My passion is building beautiful web experiences, and I specialize in the Vue.js ecosystem.
 
@@ -10,9 +8,7 @@ When I'm not coding, you can find me exploring new worlds in video games 🎮 or
   <img src="https://media.tenor.com/146_nCmY0qoAAAAj/kirby.gif" width="200px">
 </p>
 
-***
-
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -50,9 +46,7 @@ When I'm not coding, you can find me exploring new worlds in video games 🎮 or
   </a>
 </p>
 
-***
-
-### 📫 Let's Connect!
+## 📫 Let's Connect!
 
 Feel free to reach out. I'm always happy to connect with other developers and creatives!
 
