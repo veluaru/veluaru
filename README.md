@@ -14,13 +14,16 @@ When I'm not coding, you can find me exploring new worlds in video games 🎮 or
 |---|---|---|---|
 | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />](https://www.typescriptlang.org/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" />](https://vuejs.org/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />](https://reactjs.org/) |
 | [<img src="https://pinia.vuejs.org/logo.svg" width="40" height="40" />](https://pinia.vuejs.org/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />](https://www.w3.org/html/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />](https://www.w3schools.com/css/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" />](https://sass-lang.com) |
-| [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" />](https://tailwindcss.com/) | [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" />](https://www.figma.com/) | [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" />](https://git-scm.com/) | |
+| [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" />](https://tailwindcss.com/) | [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" />](https://www.figma.com/) | [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" />](https://git-scm.com/) | [<img src="https://vitest.dev/logo.svg" width="40" height="40" />](https://vitest.dev/) |
 
 ## 📫 Let's Connect!
 
 Feel free to reach out. I'm always happy to connect with other developers and creatives!
 
 <p align="center">
+  <a href="https://veluaru.github.io/my-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/angie-castañeda-martinez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
